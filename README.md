@@ -2,9 +2,9 @@
 
 A human-reviewed AI intake system that helps nonprofit staff connect Fort Worth residents with verified community resources.
 
-> **Project status:** Working demonstration
-> **Deployment status:** Not currently used with real resident submissions
-> **Core principle:** The AI drafts. A human decides.
+**Project status:** Working prototype evaluated against 21 synthetic test scenarios plus regression testing  
+**Deployment status:** Demonstration only; not currently used with real resident submissions  
+**Core principle:** The AI drafts. A human decides.
 
 ## Overview
 
