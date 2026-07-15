@@ -187,13 +187,12 @@ The evaluation included:
 
 The complete evaluation record is available in [`eval_table.csv`](eval_table.csv). It includes:
 
-* Test input
+* Input
 * Expected behavior
 * Actual behavior
 * Pass or fail result
-* Diagnosis
 * Fix notes
-* Regression-test results
+* Retest notes
 
 ## Failures discovered during testing
 
