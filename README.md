@@ -51,6 +51,10 @@ A staff member then reviews the output and chooses to approve, edit, or reject i
 
 ## System workflow
 
+<img width="500" height="430" alt="Screenshot 2026-07-14 at 22 42 40" src="https://github.com/user-attachments/assets/fc3f6c64-252a-47bd-b141-881c629599aa" />
+
+*Follow-up tracking and dashboard: requests by category and outcomes. Populated with synthetic demonstration data from the evaluation suite — no real resident submissions.*
+
 ```mermaid
 flowchart LR
     A[Resident completes Google Form] --> B[Submission enters Google Sheet]
@@ -176,6 +180,11 @@ The evaluation included:
 * A Spanish-language request not covered by an explicit language rule
 
 ## Evaluation results
+
+<img width="1400" height="443" alt="Screenshot 2026-07-14 at 22 46 15" src="https://github.com/user-attachments/assets/0a9def17-962c-4e1d-9f31-1ade55bd2549" />
+
+*Follow-up tracking and dashboard: requests by category and outcomes. Populated with synthetic demonstration data from the evaluation suite — no real resident submissions.*
+
 
 * All tested human-safety emergencies were ultimately escalated correctly.
 * Crisis drafts led with 911, 988, or the appropriate crisis service.
