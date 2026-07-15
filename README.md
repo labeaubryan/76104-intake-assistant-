@@ -74,7 +74,10 @@ flowchart LR
 The system is intentionally Google Workspace native. Many small nonprofits already use these tools, which reduces cost, training requirements, and implementation barriers.
 
 A nontechnical staff member can view and modify the directory, review every generated draft, update request statuses, and understand what the system is doing without needing a separate administrative platform.
+## Repository contents
 
+- [`intake_assistant.gs`](./intake_assistant.gs) — the complete Apps Script: pipeline, system prompt with all seven rules (including the post-evaluation patches), and escalation handling
+- [`eval_table.csv`](./eval_table.csv) — the full evaluation record
 ## Core design decisions
 
 ### Closed resource directory
